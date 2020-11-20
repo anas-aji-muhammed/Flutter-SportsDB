@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "883622774383",
+    "firebase_url": "https://grocery-app-3b50b.firebaseio.com",
+    "project_id": "grocery-app-3b50b",
+    "storage_bucket": "grocery-app-3b50b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883622774383:android:1b7ba3e3e28a73c2ceef9a",
+        "android_client_info": {
+          "package_name": "com.anasajimuhammed.fresh_food_cart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883622774383-i6m5ssber20e4npl146egnn7r4f3k7h7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anasajimuhammed.fresh_food_cart",
+            "certificate_hash": "39c6dca75b166c9c639aa1d905b4c66f1fe59d4c"
+          }
+        },
+        {
+          "client_id": "883622774383-c60lot9a2u5s0rqf48qkc9sj9625lqos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNC7YI3RC-1bDVsYEflFD7dp0vr4_A-A0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883622774383-c60lot9a2u5s0rqf48qkc9sj9625lqos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
